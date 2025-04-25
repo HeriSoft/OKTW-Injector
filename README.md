@@ -3,7 +3,7 @@
 OKTW Injector 
 version 1.1
 --------------
-The software helps you Inject all DLL into the game or software quickly and easily.
+The software helps you Inject all DLL into the games or apps quickly and easily.
 
 Support me:
 Paypal.me/herishop
